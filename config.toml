@@ -43,14 +43,9 @@ theme = "hugo-serif-theme"
       weight = 4
   
   [[menu.main]]
-      name = "Growing Up with Robots"
-      url = "/gur/"
-      weight = 5
-  
-  [[menu.main]]
       name = "Contact"
       url = "/contact/"
-      weight = 6
+      weight = 5
 
   # Footer Menu
   [[menu.footer]]
